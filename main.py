@@ -1,4 +1,4 @@
-name = input("Enter your name: ")
+names = input("Enter your name: ")
 
-print("Hello", name)g
+print("Hello", names)g
 
